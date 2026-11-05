@@ -1,0 +1,127 @@
+[
+  {
+    "id": "inspecting_leaves",
+    "category": "Diagnostics & Scouting",
+    "title": "How to Inspect Leaves for Early Trouble",
+    "subtitle": "Detect symptoms before they spread across your entire garden",
+    "summary": "Weekly leaf inspections catch disease in the incubation or early lesion phase, saving plants from catastrophic defoliation.",
+    "icon": "magnifying-glass",
+    "readTimeMinutes": 3,
+    "keyPoints": [
+      "Check both the upper and lower surfaces of leaves; many fungal pathogens (like downy mildew and spider mites) start underneath.",
+      "Inspect older, lower leaves closest to the soil first; soil-borne fungi like early blight and septoria start there.",
+      "Look for changes in texture: water-soaked spots, velvety coatings, brittle edges, or raised pustules.",
+      "Hold a leaf up to the light to see faint yellow chlorosis or tiny translucent pinprick spots early.",
+      "Always inspect newly arrived nursery transplants before placing them next to existing garden plants."
+    ],
+    "actionSteps": [
+      "Set a dedicated scouting morning once every week (morning light is clearest).",
+      "Carry a 10x hand lens or smartphone magnifying app.",
+      "Take notes or photos in PlantCare AI to monitor changes week-over-week."
+    ]
+  },
+  {
+    "id": "watering_and_drainage",
+    "category": "Cultural Practices",
+    "title": "Smart Watering and Soil Drainage",
+    "subtitle": "Water the roots, not the leaves, to starve fungal pathogens",
+    "summary": "Over 75% of foliar plant diseases require free water on the leaf surface for spore germination. Smart watering is your primary disease prevention shield.",
+    "icon": "water-drop",
+    "readTimeMinutes": 4,
+    "keyPoints": [
+      "Always water at the base of the plant using drip irrigation, soaker hoses, or a watering wand aimed at the soil.",
+      "Never water in late evening or night; foliage that remains wet overnight invites rapid spore germination.",
+      "If overhead watering is unavoidable, water early in the morning (6 AM – 9 AM) so the sun dries leaves quickly.",
+      "Ensure containers have functional drainage holes. Standing water suffocates roots and causes Pythium root rot.",
+      "Test soil moisture with your finger 2 inches deep before watering; if moist, hold off."
+    ],
+    "actionSteps": [
+      "Install a simple drip irrigation kit or timer for vegetable raised beds.",
+      "Add 2–3 inches of organic straw or shredded bark mulch to prevent soil splashing onto bottom leaves.",
+      "Amend heavy clay soils with compost or coarse perlite to facilitate drainage."
+    ]
+  },
+  {
+    "id": "tool_sanitization",
+    "category": "Hygiene & Prevention",
+    "title": "Cleaning and Disinfecting Gardening Tools",
+    "subtitle": "Prevent accidental transmission of bacterial and viral pathogens",
+    "summary": "Contaminated pruners and stakes are the #1 vector for spreading bacterial cankers and tobacco/tomato mosaic viruses.",
+    "icon": "scissors",
+    "readTimeMinutes": 3,
+    "keyPoints": [
+      "Wipe pruner blades with 70% isopropyl alcohol or disinfectant wipes between plants when pruning diseased tissue.",
+      "Soak stakes, cages, and nursery pots in a 10% household bleach solution (1 part bleach to 9 parts water) for 20 minutes before reusing.",
+      "Scrub off caked soil and sap before disinfecting; organic debris shields microbes from chemical disinfectants.",
+      "Oil moving parts with vegetable or mineral oil after sanitizing to prevent blade corrosion.",
+      "Wash your hands with warm water and soap after smoking or handling tobacco before touching nightshade crops."
+    ],
+    "actionSteps": [
+      "Keep a spray bottle of 70% rubbing alcohol and a rag in your gardening tool apron.",
+      "Clean shears immediately after removing blighted leaves before trimming healthy foliage."
+    ]
+  },
+  {
+    "id": "preventive_gardening",
+    "category": "Prevention & Planning",
+    "title": "Core Preventive Gardening Practices",
+    "subtitle": "Build plant resilience through crop rotation and proper spacing",
+    "summary": "A healthy garden ecosystem naturally suppresses disease outbreaks without heavy chemical intervention.",
+    "icon": "shield-check",
+    "readTimeMinutes": 4,
+    "keyPoints": [
+      "Practice 3- to 4-year crop family rotations. Avoid planting tomatoes, potatoes, eggplants, or peppers in the same bed consecutively.",
+      "Space plants according to mature size recommendations to ensure strong wind currents and rapid leaf drying.",
+      "Choose certified disease-resistant crop varieties (look for codes like V, F, N, T, PM on seed packets).",
+      "Avoid excessive synthetic high-nitrogen fertilizers which force tender, succulent growth vulnerable to pests and fungi.",
+      "Companion planting with marigolds, basil, and flowering alliums attracts beneficial predatory insects."
+    ],
+    "actionSteps": [
+      "Map your garden beds on paper or in a spreadsheet to maintain accurate multi-year rotation records.",
+      "Stake or trellis all indeterminate vining crops early."
+    ]
+  },
+  {
+    "id": "common_symptoms_guide",
+    "category": "Diagnostics & Scouting",
+    "title": "Deciphering Common Leaf Symptoms",
+    "subtitle": "Tell fungal leaf spots from nutrient deficiencies and pest damage",
+    "summary": "Learn how the location, shape, and pattern of visual symptoms reveal the underlying nature of plant problems.",
+    "icon": "leaf",
+    "readTimeMinutes": 5,
+    "keyPoints": [
+      "Concentric rings or target patterns: Strong indicator of fungal infections such as Alternaria (Early Blight).",
+      "Angular spots confined by leaf veins: Typical of bacterial leaf spots or downy mildew.",
+      "Powdery white or grayish film on top of leaves: Hallmark of powdery mildew.",
+      "Interveinal chlorosis (yellowing between veins while veins stay green): Often iron, magnesium, or manganese deficiency, not a fungal infection.",
+      "Bottom-up uniform yellowing: Typically nitrogen deficiency or natural aging of lowest foliage.",
+      "Stippling (tiny white or yellow speckles): Characteristic of spider mites or thrips feeding from leaf undersides."
+    ],
+    "actionSteps": [
+      "Photograph the symptom clearly using PlantCare AI's camera tool.",
+      "Examine whether symptoms are localized to one branch or evenly distributed across the entire canopy."
+    ]
+  },
+  {
+    "id": "when_to_seek_expert",
+    "category": "Professional Assistance",
+    "title": "When to Seek Professional Agricultural Advice",
+    "subtitle": "Recognizing severe outbreaks and regulated quarantine plant diseases",
+    "summary": "PlantCare AI provides preliminary screening. Understand when a physical laboratory diagnosis or agricultural extension visit is crucial.",
+    "icon": "academic-cap",
+    "readTimeMinutes": 3,
+    "keyPoints": [
+      "Sudden rapid wilting of an entire mature plant while soil is moist (indicates vascular wilt like Fusarium/Verticillium or root rot).",
+      "Symptoms spreading aggressively across multiple rows or acres within 48 to 72 hours (indicates virulent late blight or bacterial pathogen).",
+      "Unusual symptoms on citrus trees like asymmetric yellow mottling or corky veins (suspected Citrus Greening/HLB requires mandatory state reporting).",
+      "Recurring crop failure across multiple seasons despite standard cultural prevention.",
+      "Before investing in expensive or hazardous synthetic chemical spray programs."
+    ],
+    "actionSteps": [
+      "Contact your local University Agricultural Extension Office or County Farm Bureau.",
+      "Collect a fresh sample: a branch showing both diseased and healthy transitioning tissue in a sealed, dry plastic bag.",
+      "Keep the sample cool and bring it to the diagnostic clinic within 24 hours."
+    ]
+  }
+]
+

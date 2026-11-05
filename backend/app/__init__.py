@@ -1,0 +1,2 @@
+"""PlantCare AI Application Package"""
+
